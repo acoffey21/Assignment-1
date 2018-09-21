@@ -7,6 +7,8 @@ Correctly implemented work:
 		-Included a photo, along with an acessibility caption
 		-Link to resume
 		-Link to short bio
+		-Tufts CS account redirects to -----
+		-Linked stlye sheet
 	-Bio
 		-Title
 		-Short bio*
@@ -19,4 +21,4 @@ Correctly implemented work:
 		-Skills
 		-Activities
 Collaborators: 
-Approximate hours to complete = 3.
+Approximate hours to complete = 4

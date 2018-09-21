@@ -1,0 +1,30 @@
+/* style sheet for index.html */
+
+body {
+	background-color: #DFFDFF;
+	font-family: "Palatino LT STD";
+	color: black;
+}
+
+h1 {
+	font-size: 48px;
+	text-decoration: underline;
+
+}
+
+h2 {
+	font-size: 24px;
+}
+
+p {
+	font-style: italic;
+	font-size: 12;
+}
+
+#picture {
+	border-style: double;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-right: 80%;
+
+}
