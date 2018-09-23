@@ -7,11 +7,12 @@ Correctly implemented work:
 		-Included a photo, along with an acessibility caption
 		-Link to resume
 		-Link to short bio
-		-Tufts CS account redirects to -----
+		-Tufts CS account redirects to
 		-Linked stlye sheet
 	-Bio
 		-Title
 		-Short bio*
+		-Linked style sheet
 	-Resume
 		-Title
 		-Included Name*

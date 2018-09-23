@@ -1,0 +1,26 @@
+/* style sheet for bio.html */
+
+body {
+	background-color: #C6D2ED;
+	font-family: "Palatino LT STD";
+	color: black;
+	font-size:18px;
+}
+
+h1 {
+	font-size: 38px;
+	border-bottom: 0%;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 18px;
+	font-style: italic;
+}
+
+.catagory {
+	text-decoration: underline;
+	}
