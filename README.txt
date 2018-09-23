@@ -19,7 +19,9 @@ Correctly implemented work:
 		-Education section (college and highschool)*
 		-Research experience section *
 		-Work experience section *
-		-Skills
-		-Activities
+		-Skills*
+		-Activities*
+		-Linked style sheet
+			-5+ rules
 Collaborators: 
-Approximate hours to complete = 4
+Approximate hours to complete = 4.5

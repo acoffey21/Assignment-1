@@ -1,4 +1,4 @@
-/* style sheet for bio.html */
+/* style sheet for resume.html */
 
 body {
 	background-color: #C6D2ED;
@@ -9,7 +9,10 @@ body {
 
 h1 {
 	font-size: 38px;
-	border-bottom: 0%;
+	border-style: dotted;
+	padding-left: 10px;
+	padding-right: 5px;
+	margin-right: 87%;
 }
 
 h2 {
@@ -24,3 +27,8 @@ h3 {
 .catagory {
 	text-decoration: underline;
 	}
+
+.cartoon {
+	background-color: black;
+	border-radius: 50%;
+}
