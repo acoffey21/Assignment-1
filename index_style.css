@@ -19,9 +19,20 @@ h2 {
 	margin-top:10px
 }
 
+h3{
+	font-size: 18;
+	text-align: center;
+	text-decoration: underline;
+}
+
 p {
-	font-style: italic;
 	font-size: 16px;
+	text-align: center;
+}
+
+ul {
+    /*text-align: center; 
+    list-style-position: inside; */
 }
 
 .center {
@@ -60,7 +71,7 @@ p {
 .column {
   float: left;
   width: 33.33%;
-  text-align: center;
+  /*text-align: center; */
 }
 
 /* Clear floats after the columns */
