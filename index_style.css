@@ -1,7 +1,7 @@
 /* style sheet for index.html */
 
 body {
-	background-image: linear-gradient(white, #C9D7F8);
+	background-color: white;
 	font-family: "Palatino LT STD";
 	color: black;
 }
@@ -14,9 +14,10 @@ h1 {
 }
 
 h2 {
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
-	margin-top:10px
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 h3{
@@ -25,15 +26,15 @@ h3{
 	text-decoration: underline;
 }
 
+h4 {
+	margin-bottom: 0;
+}
+
 p {
 	font-size: 16px;
 	text-align: center;
 }
 
-ul {
-    /*text-align: center; 
-    list-style-position: inside; */
-}
 
 .center {
   display: block;
@@ -71,6 +72,7 @@ ul {
 .column {
   float: left;
   width: 33.33%;
+  margin-top: 15px;
   /*text-align: center; */
 }
 
