@@ -1,18 +1,7 @@
 /* style sheet for resume.html */
 
-body {
-	background-color: #C6D2ED;
-	font-family: "Palatino LT STD";
-	color: black;
-	font-size:18px;
-}
-
 h1 {
 	font-size: 38px;
-	border-style: dotted;
-	padding-left: 10px;
-	padding-right: 5px;
-	margin-right: 87%;
 }
 
 h2 {
@@ -22,13 +11,4 @@ h2 {
 h3 {
 	font-size: 18px;
 	font-style: italic;
-}
-
-.catagory {
-	text-decoration: underline;
-	}
-
-.cartoon {
-	background-color: black;
-	border-radius: 50%;
 }

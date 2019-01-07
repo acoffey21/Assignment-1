@@ -1,4 +1,11 @@
-/* stylesheet for topnav bar */
+/* general stylesheet */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 .topnav {
   background-color: #333;
