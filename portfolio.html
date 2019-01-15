@@ -5,12 +5,13 @@
 <head>
 	<title>Portfolio</title>
 	<meta charset = "utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="portfolio_style.css" rel="stylesheet" />
 	<link href="general_style.css" rel="stylesheet" />
 	<script src = "portfolio_script.js"></script>
 </head>
 
-<body onload="init()">
+<body onload = "init()">
 
 <div class="topnav">
 	<a href="https://acoffey21.github.io/index.html">About Me </a>
@@ -19,15 +20,39 @@
 	<a href="https://acoffey21.github.io/antiweb.html">What Not to Do</a>
 </div>
 
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('misc')"> Misc </button>
+</div>
 
-<div id="myModal" class="modal">
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Sorry, this page is underconstruction! Come back later :)</p>
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column misc">
+    <div class="content">
+      <img src="portfoliopics/Sticker.jpg" alt="Energy Saver Sticker" style="width:100%">
+      <h4>Energy Saver Sticker</h4>
+      <p>I created this design as part of a proposal to place these stickers in dorms to help reduce unncessary charging times</p>
+    </div>
   </div>
 
+  <div class="column misc">
+    <div class="content">
+      <img src="portfoliopics/LondonTravel.jpg" alt="London Travel Poster" style="width:100%">
+      <h4>London Travel Poster</h4>
+    </div>
+  </div>
+
+  <div class="column misc">
+    <div class="content">
+      <img src="portfoliopics/construction.jpg" alt="more coming soon" style="width:100%">
+      <h4>MORE CONTENT COMING SOON</h4>
+    </div>
+  </div>
+
+  
+<!-- END GRID -->
 </div>
+
 </body>
 
 </html>
